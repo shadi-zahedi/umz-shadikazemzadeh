@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "umz-shadikazemzadeh",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2c00b2ba-ca35-497a-b414-514536321e7f",
+      "database_name": "umz.shadikazemzadeh"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
